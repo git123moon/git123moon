@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tharindu Gamage</h1>
 <h3 align="center">A passionate Mechatronics Engineer from Sri Lanka.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...
-](https://fbi.cults3d.com/uploaders/16394868/illustration-file/fac8f376-ef71-4955-9ebb-961f9a7279bb/Robot-Arm-with-Mecanum-Wheels-Platform-by-HowToMechatronics.gif)">
+<img align="right" alt="Mechatronics" width="400" src="https://fbi.cults3d.com/uploaders/16394868/illustration-file/fac8f376-ef71-4955-9ebb-961f9a7279bb/Robot-Arm-with-Mecanum-Wheels-Platform-by-HowToMechatronics.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
