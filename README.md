@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Programming in both the 32 bit and 64 bit x86 assembler.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/git123moon](https://github.com/git123moon)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/tharindu-gamage-522198241)
 
 - 💬 Ask me about **Mechatronics projects, Mechanical robot design.**
 
